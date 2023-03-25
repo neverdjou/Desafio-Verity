@@ -27,8 +27,11 @@ segue a documentação :  https://playwright.dev/python/docs/intro
 
 ___________________________________________________
 
-Dado que os requisitos foram cumpridos, é possível executar a automação através do comando : python demoqa.py
- A única ressalva é que se deve abrir o console na na pasta em que o arquivo foi salvo, como no exemplo abaixo.
+Dado que os requisitos foram cumpridos, é possível executar a automação através do comando : 
+
+python verity.py
+
+A única ressalva é que se deve abrir o console na na pasta em que o arquivo foi salvo, como no exemplo abaixo.
  
 ![image](https://user-images.githubusercontent.com/62752617/227734621-c36105e3-113e-4eb5-8d46-8ca69639af73.png)
 
