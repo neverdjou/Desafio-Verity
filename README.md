@@ -7,8 +7,9 @@ ___________________________________________________
 
 Passo a passo: 
 baixar e instalar o executável python : 
-      Python pode ser baixado através do site : https://www.python.org/downloads/ 
-uma vez instalado e configurado o PATH.
+Python pode ser baixado através do site : https://www.python.org/downloads/ 
+
+<br>uma vez instalado e configurado o PATH.
 
 Instalar os pacotes Playwright através do console , eu usei powershell 
 
