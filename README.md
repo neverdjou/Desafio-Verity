@@ -1,8 +1,8 @@
 # Desafio-Verity
 Desafio Verity
 
-Para esse desafio utilizei python e Playwright
-sendo necessaio instalação desses para execução da automação 
+Para esse desafio utilizei python e Playwright,
+sendo necessaio instalação desses para execução da automação.
 ___________________________________________________
 
 Passo a passo: 
@@ -10,7 +10,7 @@ baixar e instalar o executável python :
       Python pode ser baixado através do site : https://www.python.org/downloads/ 
 uma vez instalado e configurado o PATH.
 
-Instalar os pacotes Playwright e Faker através do console , eu usei powershell 
+Instalar os pacotes Playwright através do console , eu usei powershell 
 
 pip install playwright
 
