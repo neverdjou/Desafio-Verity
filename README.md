@@ -18,7 +18,7 @@ pip install playwright
 ![image](https://user-images.githubusercontent.com/62752617/227734635-31687ca2-03c3-4d3e-9ce2-ff5ae0ca59dc.png)
 
 
-em seguida use o comando playwright install , para que seja instalado as dependências da biblioteca 
+em seguida use o comando playwright install , para que seja instalado as dependências da biblioteca , 
 no meu caso não retornou nada, pois já tenho instalado.
 
 ![image](https://user-images.githubusercontent.com/62752617/227734684-b5be71c0-ee7b-4787-8faa-2ce3a50cfbad.png)
